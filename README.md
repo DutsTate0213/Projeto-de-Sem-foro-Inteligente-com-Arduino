@@ -1,1 +1,1 @@
-# Projeto-de-Sem-foro-Inteligente-com-Arduino
+# Projeto de Semáforo Inteligente com Arduino
