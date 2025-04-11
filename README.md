@@ -57,10 +57,10 @@ void setup() {
   pinMode(ledVermelhoPedestres, OUTPUT);
   pinMode(ledVerdePedestres, OUTPUT);
 }
-``
+```
 
 ### Loop Principal
-``
+```
 // Função principal (executada repetidamente)
 void loop() {
   // Lógica para veículos
