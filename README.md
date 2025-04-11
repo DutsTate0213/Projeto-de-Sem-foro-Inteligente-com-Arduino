@@ -21,7 +21,7 @@ Sistema de semáforo que ajusta dinamicamente os tempos de sinalização com bas
 Ajusta os tempos dos sinais com base nos dados dos sensores.
 
 ### Inicialização
-``
+```
 // Declaração dos pinos dos LEDs
 int ledVermelhoVeiculos = 2;
 int ledAmareloVeiculos = 3;
@@ -102,7 +102,7 @@ void loop() {
   // Acende o LED vermelho para pedestres (pedestres aguardam)
   digitalWrite(ledVermelhoPedestres, HIGH);
 }
-``
+```
 
 ### Lógica de Controle
 Sequência de cores dos LEDs e tempos de duração.
